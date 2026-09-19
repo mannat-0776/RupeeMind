@@ -1,4 +1,5 @@
 # RupeeMind — Enterprise AI Personal Finance & Expense Intelligence Platform
+https://vercel.com/mannat-0776s-projects/rupeemind/C9BmdjPbc1ZaYRxKZJLHs4xd4qLQ
 
 RupeeMind is an AI-powered personal finance engine engineered specifically for Indian banking, UPI ecosystems, and multi-modal receipt analysis. Built with React 18, Vite, Material Design 3, Tailwind CSS, Google Gemini 2.5 Flash multimodal vision & NLP, and Supabase.
 
