@@ -1,0 +1,8 @@
+{
+  "name": "RupeeMind - AI-First Personal Finance Assistant",
+  "description": "RupeeMind automatically converts WhatsApp receipts and Bank SMS into categorized expenses, generates budgets, and provides personalized savings insights. Track • Budget • Save • Grow.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
